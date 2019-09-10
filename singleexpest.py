@@ -15,7 +15,7 @@ from fbm import FBM,MBM
 import numpy as np
 import random
 
-nlength = 10
+nlength = 14
 #Load model
 model = keras.models.load_model(".\\good_DLFNNmodels\\model3densediff_n"+str(nlength-1)+".h5")
 #generate fbm example
