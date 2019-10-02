@@ -9,3 +9,8 @@ model3densediff_n13.h5 is the saved tensorflow model that has been pre-trained
 singleexpest.py is the python script to use to classify a single trajectory with a single Hurst exponent.
 
 multiexpest.py is the python script to use to classify a single trajectory with varying Hurst exponent by using a symmetric moving window.
+
+
+
+More information can be found on https://www.biorxiv.org/content/10.1101/777615v2 or message/email me (Daniel S Han).
+
