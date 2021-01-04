@@ -12,5 +12,5 @@ multiexpest.py is the python script to use to classify a single trajectory with 
 
 
 
-More information can be found on https://www.biorxiv.org/content/10.1101/777615v2 or message/email me (Daniel S Han).
+More information can be found on https://www.biorxiv.org/content/10.1101/777615v2 and https://elifesciences.org/articles/52224 or message/email me (Daniel S Han).
 
